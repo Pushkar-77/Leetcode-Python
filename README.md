@@ -9,6 +9,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Pushkar-77/Leetcode-Python/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Pushkar-77/Leetcode-Python/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Pushkar-77/Leetcode-Python/tree/master/0290-word-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Pushkar-77/Leetcode-Python/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
